@@ -1,5 +1,22 @@
 # Fidelity Revision Checklist
 
+## Inventory Audit
+
+- [ ] Integrate every confirmed asset into the homepage picker.
+- [ ] Add missing vegan staple-food cards and asset references.
+- [ ] Add tabs for produce, fruit, vegetables, staples, pantry, drinks, and all foods.
+- [ ] Keep the fixed left rail, horizontal option rows, original copy, and section order unchanged.
+
+
+
+- [ ] Confirm the exact total of unique food illustrations commissioned or reserved.
+- [ ] Confirm which assets are currently wired into the homepage picker.
+- [ ] Confirm which reserved assets are not yet integrated.
+- [ ] Reconcile names to ensure no duplicates across generated batches.
+- [ ] Create a prioritized list of 50+ missing vegan foods by category.
+
+
+
 - [ ] Sample and codify the reference image’s dominant cream, red, yellow, green, and text colors.
 - [ ] Rebuild the reusable split-panel card component with the reference’s hard vertical split and asymmetric label blocks.
 - [ ] Replace interpreted palettes across fruit, vegetable, category, recipe, and supporting content modules.
